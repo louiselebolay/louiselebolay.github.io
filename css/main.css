@@ -476,6 +476,10 @@ h5 {
   }
 }
 
+h5 + p {
+  margin-top: 1.28rem;
+}
+
 h6 {
   margin-top: 2.56rem;
   margin-bottom: 0;
